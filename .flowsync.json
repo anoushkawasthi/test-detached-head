@@ -1,0 +1,6 @@
+{
+  "projectId": "3c5f6fae-52bb-4352-9589-737021e80ea9",
+  "backendUrl": "https://86tzell2w9.execute-api.us-east-1.amazonaws.com/prod",
+  "defaultBranch": "main",
+  "port": 38476
+}

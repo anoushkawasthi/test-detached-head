@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "flowsync": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "c:\\Users\\Anoushka\\.vscode\\extensions\\undefined_publisher.flowsync-0.0.1\\dist\\mcp-server.mjs"
+      ],
+      "env": {
+        "FLOWSYNC_API_URL": "https://86tzell2w9.execute-api.us-east-1.amazonaws.com/prod",
+        "FLOWSYNC_PROJECT_ID": "3c5f6fae-52bb-4352-9589-737021e80ea9",
+        "FLOWSYNC_TOKEN": "20e42308ed3c3425215fc0288210e9ba944c27991a3bfdf8a0bf7fab6a29d978"
+      }
+    }
+  }
+}
